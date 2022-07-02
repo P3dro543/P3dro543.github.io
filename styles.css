@@ -1,0 +1,26 @@
+h1 {
+    font-size: 34px;
+    font-style: italic;
+    color: aliceblue;
+    text-align: center;
+    
+}
+p{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+body {
+    background-color: darkred;
+}
+#Pedro {
+    max-width: 250px;
+    max-height: 250px;
+   display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+a{
+    color: aliceblue;
+    text-align: center;
+}
